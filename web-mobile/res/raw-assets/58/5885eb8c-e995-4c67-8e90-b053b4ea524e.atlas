@@ -1,0 +1,27 @@
+
+buyLuck.png
+size: 574,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 466, 8
+  size: 106, 121
+  orig: 106, 121
+  offset: 0, 0
+  index: -1
+light_yellow01
+  rotate: false
+  xy: 2, 2
+  size: 270, 127
+  orig: 270, 127
+  offset: 0, 0
+  index: -1
+ui004
+  rotate: false
+  xy: 274, 83
+  size: 190, 46
+  orig: 190, 46
+  offset: 0, 0
+  index: -1

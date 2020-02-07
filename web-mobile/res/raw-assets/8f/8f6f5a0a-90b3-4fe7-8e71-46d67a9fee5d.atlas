@@ -1,0 +1,286 @@
+
+sailuo.png
+size: 1674,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+210
+  rotate: false
+  xy: 1146, 3
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+arm_L_1
+  rotate: false
+  xy: 1531, 77
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+arm_L_2
+  rotate: true
+  xy: 1561, 160
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+arm_L_3
+  rotate: true
+  xy: 1456, 158
+  size: 112, 52
+  orig: 112, 52
+  offset: 0, 0
+  index: -1
+arm_R_1
+  rotate: false
+  xy: 1561, 231
+  size: 97, 39
+  orig: 97, 39
+  offset: 0, 0
+  index: -1
+arm_R_3
+  rotate: false
+  xy: 375, 3
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+arm_R_4
+  rotate: true
+  xy: 1510, 172
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+body_up_all
+  rotate: false
+  xy: 1407, 34
+  size: 76, 114
+  orig: 76, 114
+  offset: 0, 0
+  index: -1
+feet_L_2
+  rotate: false
+  xy: 1475, 1
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+feet_R_1
+  rotate: false
+  xy: 1373, 4
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+foot_L_3
+  rotate: true
+  xy: 1632, 54
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+foot_R_2
+  rotate: true
+  xy: 1416, 0
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+gun/gun_2_s
+  rotate: false
+  xy: 1609, 125
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+gun/gun_M1_s
+  rotate: true
+  xy: 1485, 53
+  size: 103, 44
+  orig: 103, 44
+  offset: 0, 0
+  index: -1
+gun/gun_ba_s
+  rotate: false
+  xy: 179, 1
+  size: 194, 58
+  orig: 194, 58
+  offset: 0, 0
+  index: -1
+gun/gun_fire_s
+  rotate: true
+  xy: 680, 104
+  size: 166, 55
+  orig: 166, 55
+  offset: 0, 0
+  index: -1
+gun/gun_god_s
+  rotate: false
+  xy: 441, 5
+  size: 138, 69
+  orig: 138, 69
+  offset: 0, 0
+  index: -1
+gun/gun_laser_s
+  rotate: true
+  xy: 1273, 5
+  size: 124, 62
+  orig: 124, 62
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 1338, 150
+  size: 120, 116
+  orig: 120, 116
+  offset: 0, 0
+  index: -1
+jineng1
+  rotate: true
+  xy: 581, 4
+  size: 88, 155
+  orig: 88, 155
+  offset: 0, 0
+  index: -1
+jineng2
+  rotate: false
+  xy: 737, 117
+  size: 124, 153
+  orig: 124, 153
+  offset: 0, 0
+  index: -1
+jineng3
+  rotate: true
+  xy: 738, 0
+  size: 115, 138
+  orig: 115, 138
+  offset: 0, 0
+  index: -1
+leg_L_2
+  rotate: false
+  xy: 1561, 0
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+leg_R_1
+  rotate: false
+  xy: 1516, 1
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+shoulder_R_1
+  rotate: true
+  xy: 1597, 81
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+slash1_4
+  rotate: true
+  xy: 0, 8
+  size: 262, 83
+  orig: 262, 83
+  offset: 0, 0
+  index: -1
+slash2_5
+  rotate: true
+  xy: 256, 62
+  size: 208, 81
+  orig: 208, 81
+  offset: 0, 0
+  index: -1
+slash3_4
+  rotate: true
+  xy: 85, 18
+  size: 252, 92
+  orig: 252, 92
+  offset: 0, 0
+  index: -1
+slash5_1
+  rotate: true
+  xy: 508, 94
+  size: 176, 170
+  orig: 176, 170
+  offset: 0, 0
+  index: -1
+slash5_4
+  rotate: true
+  xy: 179, 61
+  size: 209, 75
+  orig: 209, 75
+  offset: 0, 0
+  index: -1
+sword1
+  rotate: false
+  xy: 1165, 131
+  size: 114, 139
+  orig: 114, 139
+  offset: 0, 0
+  index: -1
+sword1_2_s
+  rotate: true
+  xy: 1373, 30
+  size: 118, 32
+  orig: 118, 32
+  offset: 0, 0
+  index: -1
+sword2
+  rotate: true
+  xy: 878, 0
+  size: 116, 133
+  orig: 116, 133
+  offset: 0, 0
+  index: -1
+sword3
+  rotate: false
+  xy: 969, 129
+  size: 96, 141
+  orig: 96, 141
+  offset: 0, 0
+  index: -1
+sword3_s
+  rotate: true
+  xy: 1337, 9
+  size: 123, 34
+  orig: 123, 34
+  offset: 0, 0
+  index: -1
+sword6_s
+  rotate: true
+  xy: 1281, 134
+  size: 136, 55
+  orig: 136, 55
+  offset: 0, 0
+  index: -1
+swordVIP1
+  rotate: false
+  xy: 1067, 130
+  size: 96, 140
+  orig: 96, 140
+  offset: 0, 0
+  index: -1
+swordVIP2
+  rotate: false
+  xy: 863, 118
+  size: 104, 152
+  orig: 104, 152
+  offset: 0, 0
+  index: -1
+swordVIP3
+  rotate: true
+  xy: 1013, 1
+  size: 126, 131
+  orig: 126, 131
+  offset: 0, 0
+  index: -1
+wind_5
+  rotate: false
+  xy: 339, 76
+  size: 167, 194
+  orig: 167, 194
+  offset: 0, 0
+  index: -1

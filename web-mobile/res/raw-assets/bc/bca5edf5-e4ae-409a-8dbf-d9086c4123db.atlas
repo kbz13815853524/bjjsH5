@@ -1,0 +1,118 @@
+
+UIef.png
+size: 575,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+010
+  rotate: false
+  xy: 489, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 396, 92
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UI_SJCG01
+  rotate: false
+  xy: 526, 95
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+UI_SJCG02
+  rotate: false
+  xy: 526, 135
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+UI_ShengjiLV_frame
+  rotate: true
+  xy: 334, 91
+  size: 129, 60
+  orig: 129, 60
+  offset: 0, 0
+  index: -1
+UI_chenggong01
+  rotate: false
+  xy: 273, 6
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+UI_chenggong02
+  rotate: true
+  xy: 52, 2
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+UI_manjile01
+  rotate: false
+  xy: 158, 6
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+UI_shengjieFa
+  rotate: false
+  xy: 385, 21
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+UI_shengjile01
+  rotate: true
+  xy: 2, 2
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+UI_shengjile02
+  rotate: false
+  xy: 101, 5
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+UI_shengjile03
+  rotate: false
+  xy: 526, 175
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+UI_shibai01
+  rotate: false
+  xy: 329, 7
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+UI_shibai02
+  rotate: false
+  xy: 216, 6
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+goumaicg03
+  rotate: true
+  xy: 294, 56
+  size: 164, 38
+  orig: 164, 38
+  offset: 0, 0
+  index: -1
+lightGY
+  rotate: false
+  xy: 2, 56
+  size: 290, 164
+  orig: 290, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+BOXOPEN01.png
+size: 1125,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+010
+  rotate: false
+  xy: 368, 9
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BOX01
+  rotate: false
+  xy: 976, 26
+  size: 147, 109
+  orig: 147, 109
+  offset: 0, 0
+  index: -1
+BOX02
+  rotate: false
+  xy: 112, 8
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+BOX03
+  rotate: true
+  xy: 224, 2
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+BOX04
+  rotate: false
+  xy: 298, 5
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+BOX05
+  rotate: false
+  xy: 2, 4
+  size: 108, 69
+  orig: 108, 69
+  offset: 0, 0
+  index: -1
+light_yellow01
+  rotate: false
+  xy: 704, 8
+  size: 270, 127
+  orig: 270, 127
+  offset: 0, 0
+  index: -1
+yxz_revive01
+  rotate: true
+  xy: 2, 75
+  size: 60, 700
+  orig: 60, 700
+  offset: 0, 0
+  index: -1
